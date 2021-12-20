@@ -1,0 +1,79 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    color: #7579E7;
+    text-align: center;
+}
+
+h1, h2, h3{
+    color: #7579E7;
+}
+h1 {
+    font-family: "Kaushan Script", cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+}
+  
+h2 {
+    margin-top: 30px;
+    font-family: "Merriweather", serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.seccion-color{
+    background-color: #B9FFFC;
+    padding-bottom: 30px;
+}
+
+.seccion-blanco{
+    background-color: #FFF;
+}
+
+.inicio{
+    margin: 0px;
+    padding-top: 10px;
+    position: relative;
+}
+
+.profile-picture{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+.intro{
+    color: black;
+    margin: auto;
+    text-align: justify;
+    width: 30%;
+    font-size: 1.2rem;
+}
+
+hr{
+    display: inline-block;
+    background-color: #B9FFFC;
+    border-color: black;
+    border-style: dotted none none none;
+    border-width: 7px;
+    height: 0px;
+    width: 6%;
+}
+
+.footer-link{ 
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  padding: 5px;
+  text-decoration: none;
+}
+  
+.footer-link:hover{
+  color: #9AB3F5;
+}
+  
+#copyright{
+  color: #79B4B7;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
